@@ -2,7 +2,7 @@
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/pokevault.git
+git clone https://github.com/handikaa/pokemon-app
 
 ### 2. Install dependencies
 
